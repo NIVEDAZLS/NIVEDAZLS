@@ -45,5 +45,5 @@ Welcome to my GitHub profile! I'm a **data enthusiast** and **engineer** passion
 ---
 
 🌟 Let's collaborate and create something amazing together!  
-Feel free to connect with me here or reach out via [add your preferred contact details or LinkedIn profile link].  
+Feel free to connect with me here or reach out via nivethitha.main@gmail.com
 
