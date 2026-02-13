@@ -1,12 +1,10 @@
-# Hi, I'm Nivethitha 👋
+### Hi, I'm Nivethitha 👋
 
 AI/ML Engineer | Generative AI | LLM | RAG | AWS | GCP  
 
----
+#### 👩‍💻 About Me
 
-## 👩‍💻 About Me
-
-I’m an AI/ML Engineer with a background in data analytics, currently focused on building Generative AI and Agentic AI solutions.  
+I’m an AI/ML Engineer with a background in data analytics, currently focused on building ML,Generative AI and Agentic AI solutions.  
 
 My work involves:
 - Designing and experimenting with LLM-powered applications
@@ -16,9 +14,7 @@ My work involves:
 
 I enjoy turning complex data and AI concepts into practical, scalable solutions.
 
----
-
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 **Languages:**  
 Python, SQL  
